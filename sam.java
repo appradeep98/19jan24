@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-
+hi its day 2
 public class JavaFileDownloadExample{
 	public static void main(String[] args) throws IOException{
 
